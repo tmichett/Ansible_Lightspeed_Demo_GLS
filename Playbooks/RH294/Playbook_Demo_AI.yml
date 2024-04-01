@@ -6,7 +6,7 @@
   become: yes
   tasks:
 
-  # Install apache webserver, enable the service and firewall ports for the webserver, create a custom index.html file that says "I'm a custom website" in /var/www/html
+  # Install apache webserver & enable the service & open firewall ports for the webserver & create a custom index.html file that says "I'm a custom website" in /var/www/html 
 
 
   
